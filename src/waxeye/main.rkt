@@ -15,6 +15,7 @@
          "javascript.rkt"
          "load.rkt"
          "python.rkt"
+         "qaldron.rkt"
          "ruby.rkt"
          "racket.rkt"
          "tester.rkt"
@@ -75,6 +76,7 @@
                           ((c) gen-c)
                           ((java) gen-java)
                           ((python) gen-python)
+                          ((qaldron) gen-qaldron)
                           ((ruby) gen-ruby)
                           ((racket) gen-racket)
                           ((javascript) gen-javascript)
